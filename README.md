@@ -38,6 +38,7 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 - DeFAI — agentic onchain finance where AI agents autonomously interact with DeFi protocols
 - Confidential compute with MPC and FHE
 - MCP servers for Solana tooling
+- [OpenClaw](https://github.com/openclaw/openclaw) — open source personal AI assistant
 
 ---
 
