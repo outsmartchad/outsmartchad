@@ -1,8 +1,6 @@
 ### Yooo
 
-I build trading infrastructure and developer tools on Solana. I care about speed, reliability, and giving traders an edge — whether they're human or AI.
-
-My work sits at the intersection of **DeFi**, **MEV**, and **AI agents**. I've built tools used by hundreds of traders and contributed to core Solana ecosystem SDKs.
+I build trading tools, AI agents, and onchain programs on Solana.
 
 ---
 
