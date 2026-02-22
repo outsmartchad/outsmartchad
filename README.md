@@ -36,7 +36,7 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 
 - Agentic infrastructure — designing multi-agent systems that plan, execute, and self-correct autonomously using tool-use and MCP
 - DeFAI — agentic onchain finance where AI agents autonomously interact with DeFi protocols
-- Confidential compute with MPC and FHE
+- Confidential compute with Multi-Party Computation (MPC)
 - MCP servers for Solana tooling
 - [OpenClaw](https://github.com/openclaw/openclaw) — open source personal AI assistant
 - [Automaton](https://github.com/Conway-Research/automaton) — the first AI that can earn its own existence, replicate, and evolve without needing a human
