@@ -24,13 +24,6 @@ My work sits at the intersection of **DeFi** and **AI agents**. I've built tools
 - [arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill) — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 - [agentic-engineering](https://github.com/outsmartchad/agentic-engineering) — Production patterns for agentic systems — multi-agent orchestration, tool-use architecture, MCP integration, eval-driven iteration, and deployment guardrails
 
-**Onchain Programs**
-
-- [solana_onchain_program](https://github.com/outsmartchad/solana_onchain_program) — Solana programs in Rust
-- [anchor-programs](https://github.com/outsmartchad/anchor-programs) — Onchain program development with Anchor
-- [loan](https://github.com/outsmartchad/loan) — A Cosmos SDK blockchain module for loan transactions
-- [tokenfactory](https://github.com/outsmartchad/tokenfactory) — Cosmos SDK module for creating and managing native tokens
-
 ---
 
 #### Ecosystem contributions
