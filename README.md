@@ -42,6 +42,7 @@ My work sits at the intersection of **DeFi** and **AI agents**. I've built tools
 #### Currently exploring
 
 - Agentic infrastructure — designing multi-agent systems that plan, execute, and self-correct autonomously using tool-use and MCP
+- DeFAI — agentic onchain finance where AI agents autonomously interact with DeFi protocols
 - Confidential compute with MPC and FHE
 - MCP servers for Solana tooling
 
