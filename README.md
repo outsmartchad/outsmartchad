@@ -39,7 +39,7 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 - Confidential compute with MPC and FHE
 - MCP servers for Solana tooling
 - [OpenClaw](https://github.com/openclaw/openclaw) — open source personal AI assistant
-- [Automaton](https://github.com/outsmartchad/automaton) — the first AI that can earn its own existence, replicate, and evolve without needing a human
+- [Automaton](https://github.com/Conway-Research/automaton) — the first AI that can earn its own existence, replicate, and evolve without needing a human
 
 ---
 
