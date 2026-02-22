@@ -2,7 +2,7 @@
 
 I build trading infrastructure and developer tools on Solana. I care about speed, reliability, and giving traders an edge — whether they're human or AI agents.
 
-My work sits at the intersection of **Onchain Finance** and **AI agents**. I've built tools used by hundreds of traders and contributed to core Solana ecosystem SDKs.
+My work sits at the intersection of **Onchain Finance** and **AI agents**. I've built tools used by hundreds of traders and developers and contributed to core Solana ecosystem SDKs.
 
 ---
 
