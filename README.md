@@ -11,7 +11,7 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 **Trading Infrastructure**
 
 - [outsmart-cli](https://github.com/outsmartchad/outsmart-cli) — CLI for trading on Solana. 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, LP, snipe, create pools from your terminal. **565+ stars**
-- [outsmart-agent](https://github.com/outsmartchad/outsmart-agent) — Autonomous Onchain infrastructure for AI agents — LP Sniping, LP Farming, Launching percolator perps, Trenching, Devving coins, Betting on Polymarket, and an MCP server so agents can earn to stay alive
+- [outsmart-agent](https://github.com/outsmartchad/outsmart-agent) — Autonomous Onchain Infrastructure for AI agents — LP Sniping, LP Farming, Launching percolator perps, Trenching, Devving coins, Betting on Polymarket, and an MCP server so agents can earn to stay alive
 - [pumpswap-sdk](https://github.com/outsmartchad/pumpswap-sdk) — PumpSwap AMM SDK with Jito, Nozomi, 0slot, BlockRazor, bloXroute supported
 
 **Privacy & Confidential DeFi**
