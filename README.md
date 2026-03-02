@@ -11,18 +11,16 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 **Trading Infrastructure**
 
 - [outsmart-cli](https://github.com/outsmartchad/outsmart-cli) — CLI for trading on Solana. 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, LP, snipe, create pools, launch coins from your terminal. **565+ stars**
-- [outsmart-agent](https://github.com/outsmartchad/outsmart-agent) — Autonomous Onchain Infrastructure for AI agents — LP Sniping, LP Farming, Launching percolator perps markets, Trenching, Devving coins, Betting on Polymarket, and an MCP server so agents can earn to stay alive
-- [pumpswap-sdk](https://github.com/outsmartchad/pumpswap-sdk) — PumpSwap AMM SDK with Jito, Nozomi, 0slot, BlockRazor, bloXroute supported
+- [outsmart-agent](https://github.com/outsmartchad/outsmart-agent) — Autonomous Onchain Infrastructure for AI agents — LP Sniping, LP Farming, Launching percolator perps markets, Trenching, Devving coins, Betting on Polymarket.
 
 **Privacy & Confidential DeFi**
 
 - [zodiac-liquidity](https://github.com/outsmartchad/zodiac-liquidity) — Next-gen privacy protocol for onchain liquidity providers and traders. [zodiac-liquidity.app](https://zodiac-liquidity.app/)
-- [zodiac-circuits](https://github.com/outsmartchad/zodiac-circuits) — Arcis circuit files powering Zodiac's confidential computation layer
 
 **Developer Tools & Skills**
 
-- [arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill) — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 - [agentic-engineering](https://github.com/outsmartchad/agentic-engineering) — Production patterns for agentic systems — multi-agent orchestration, tool-use architecture, MCP integration, eval-driven iteration, and deployment guardrails
+- [arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill) — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 
 ---
 
@@ -34,12 +32,11 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 
 #### Currently exploring
 
-- Agentic infrastructure — designing multi-agent systems that plan, execute, and self-correct autonomously using tool-use and MCP
-- DeFAI — agentic onchain finance where AI agents autonomously interact with DeFi protocols
-- Confidential compute with Multi-Party Computation (MPC)
-- MCP servers for Solana tooling
 - [OpenClaw](https://github.com/openclaw/openclaw) — open source personal AI assistant
 - [Automaton](https://github.com/Conway-Research/automaton) — the first AI that can earn its own existence, replicate, and evolve without needing a human
+- Agentic infrastructure — designing multi-agent systems that plan, execute, and self-correct autonomously
+- DeFAI — agentic onchain finance where AI agents autonomously send money, trade, and interact with any onchain programs
+- Confidential compute with Multi-Party Computation (MPC)
 
 ---
 
