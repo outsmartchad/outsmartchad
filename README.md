@@ -17,6 +17,10 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 
 - [zodiac-liquidity](https://github.com/outsmartchad/zodiac-liquidity) — Next-gen privacy protocol for onchain liquidity providers and traders. [zodiac-liquidity.app](https://zodiac-liquidity.app/)
 
+**Intelligence & AI Research**
+
+- [intel-swarm](https://github.com/outsmartchad/intel-swarm) — Autonomous AI research team delivering daily intelligence across 19 domains — War, Crypto, Macro, AI Agents, Communist States, Health & more. Bilingual EN/ZH, live Polymarket overlays, conflict heat map, Bloomberg-style terminal, and a public API. [intel-swarm.vercel.app](https://intel-swarm.vercel.app)
+
 **Developer Tools & Skills**
 
 - [agentic-engineering](https://github.com/outsmartchad/agentic-engineering) — Production patterns for agentic systems — multi-agent orchestration, tool-use architecture, MCP integration, eval-driven iteration, and deployment guardrails
