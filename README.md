@@ -16,7 +16,7 @@
 ### Agentic Systems & Developer Tools
 
 - 🧬 **[agenticEvolve](https://github.com/outsmartchad/agenticEvolve)** — Self-evolving AI agent on Claude Code — grows itself daily
-- 🌐 **[intel-swarm](https://github.com/outsmartchad/intel-swarm)** — Autonomous AI research team covering 19 domains daily. Bilingual EN/ZH, Bloomberg-style terminal, public API. [intel-swarm.vercel.app](https://intel-swarm.vercel.app)
+- 🌐 **[intel-swarm](https://github.com/outsmartchad/intel-swarm)** — Autonomous AI research team covering 19 domains' findings daily. [intel-swarm.vercel.app](https://intel-swarm.vercel.app)
 - 📐 **[agentic-engineering](https://github.com/outsmartchad/agentic-engineering)** — Production patterns for agentic systems
 - 🔐 **[arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill)** — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 
