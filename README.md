@@ -15,8 +15,8 @@
 
 ### Agentic Systems & Developer Tools
 
-- 🧬 **[agenticEvolve](https://github.com/outsmartchad/agenticEvolve)** — Personal closed-loop agentic system that evolves your dev capabilities daily. Claude Code engine, Telegram gateway, 6-layer memory, voice I/O, browser automation, 20 skills, 2-layer security, autonomous skill synthesis
-- 🌐 **[intel-swarm](https://github.com/outsmartchad/intel-swarm)** — Autonomous AI research team delivering daily intelligence across 19 domains. Bilingual EN/ZH, Polymarket overlays, conflict heat map, Bloomberg-style terminal, public API. [intel-swarm.vercel.app](https://intel-swarm.vercel.app)
+- 🧬 **[agenticEvolve](https://github.com/outsmartchad/agenticEvolve)** — Self-evolving AI agent on Claude Code. Telegram gateway, 6-layer memory, voice, browser automation, 20 skills, closed-loop skill synthesis
+- 🌐 **[intel-swarm](https://github.com/outsmartchad/intel-swarm)** — Autonomous AI research team covering 19 domains daily. Bilingual EN/ZH, Bloomberg-style terminal, public API. [intel-swarm.vercel.app](https://intel-swarm.vercel.app)
 - 📐 **[agentic-engineering](https://github.com/outsmartchad/agentic-engineering)** — Production patterns for agentic systems — multi-agent orchestration, tool-use architecture, MCP integration, eval-driven iteration, deployment guardrails
 - 🔐 **[arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill)** — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 
