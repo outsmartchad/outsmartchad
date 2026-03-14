@@ -23,6 +23,7 @@ My work sits at the intersection of **Onchain Finance** and **AI agents**. I've 
 
 **Developer Tools & Skills**
 
+- [agenticEvolve](https://github.com/outsmartchad/agenticEvolve) — Personal closed-loop agentic system that evolves your dev capabilities daily. Built on Claude Code with Telegram gateway, 6-layer memory, voice I/O, browser automation, 20 skills, 2-layer security, and autonomous skill synthesis via `/evolve`
 - [agentic-engineering](https://github.com/outsmartchad/agentic-engineering) — Production patterns for agentic systems — multi-agent orchestration, tool-use architecture, MCP integration, eval-driven iteration, and deployment guardrails
 - [arcium-dev-skill](https://github.com/outsmartchad/arcium-dev-skill) — Claude Code skill for building privacy-preserving Solana programs with Arcium MPC
 
