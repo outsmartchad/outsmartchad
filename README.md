@@ -1,4 +1,4 @@
-# Yoooo 👋
+# Yooo
 
 📍 **Hong Kong** | ⛓️ **Onchain Infra Builder** | 🤖 **AI Agent Engineer**
 
