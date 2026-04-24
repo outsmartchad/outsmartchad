@@ -12,7 +12,7 @@
 
 ---
 
-## Ecosystem Contributions
+## Crypto Ecosystem Contributions
 
 - 🔄 **[MeteoraAg/damm-v2-sdk](https://github.com/MeteoraAg/damm-v2-sdk)** — TypeScript SDK for interacting with DAMM-V2 on Meteora
 
