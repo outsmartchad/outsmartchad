@@ -9,15 +9,15 @@ I build consumer products, and onchain trading tools.
 
 ## Projects
 
-- 📱 **[321GoShoot](https://apps.apple.com/us/app/321goshoot/id6762259024)** — Beyblade battle, community & tournament app. Built end-to-end and shipped to the App Store and [Google Play](https://play.google.com/store/apps/details?id=app.goshoot.android). **30k+ users.** tournaments, battle sessions, leaderboards, clubs, community plaza, real-time chat, and a Maps shop-finder.
-- 💹 **[onchain-dex-cli](https://github.com/outsmartchad/onchain-dex-cli)** — CLI for trading on Solana. 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, LP, snipe, create pools, launch coins from your terminal. **550+ stars**
-- 🔒 **[zodiac-liquidity](https://github.com/outsmartchad/zodiac-liquidity)** — Privacy protocol for onchain LPs & traders, using MPC via Arcium. Submitted to the Solana Privacy Hackathon 2026. [zodiac-liquidity.app](https://zodiac-liquidity.app/)
+- **[321GoShoot](https://apps.apple.com/us/app/321goshoot/id6762259024)** — Beyblade battle, community & tournament app. Built end-to-end and shipped to the App Store and [Google Play](https://play.google.com/store/apps/details?id=app.goshoot.android). **30k+ users.** tournaments, battle sessions, leaderboards, clubs, community plaza, real-time chat, and a Maps shop-finder.
+- **[onchain-dex-cli](https://github.com/outsmartchad/onchain-dex-cli)** — CLI for trading on Solana. 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, LP, snipe, create pools, launch coins from your terminal. **550+ stars**
+- **[zodiac-liquidity](https://github.com/outsmartchad/zodiac-liquidity)** — Privacy protocol for onchain LPs & traders, using MPC via Arcium. Submitted to the Solana Privacy Hackathon 2026. [zodiac-liquidity.app](https://zodiac-liquidity.app/)
 
 ---
 
 ## Crypto Ecosystem Contributions
 
-- 🔄 **[MeteoraAg/damm-v2-sdk](https://github.com/MeteoraAg/damm-v2-sdk)** — contributor; added Token 2022 transfer hook validation for pool creation
+- **[MeteoraAg/damm-v2-sdk](https://github.com/MeteoraAg/damm-v2-sdk)** — contributor; added Token 2022 transfer hook validation for pool creation
 
 ---
 
