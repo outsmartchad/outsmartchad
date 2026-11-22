@@ -1,6 +1,5 @@
-# I run frontier open-weight models locally on my DGX Spark cluster and publish recipes and benchmarks.
-
-# I build consumer products, and onchain trading tools.
+I run frontier open-weight models locally on my DGX Spark cluster and publish recipes and benchmarks.
+I build consumer products, and onchain trading tools.
 
 ## My DGX Sparks recipes
 
