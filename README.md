@@ -4,6 +4,11 @@
 
 I build consumer products, and onchain tools.
 
+## My DGX Sparks recipes
+
+- [Qwen3.8 Flash Next](https://github.com/outsmartchad/qwen38-flash-next-single-dgx-spark-tensorfold) · TensorFold · 4-bit NVFP4 · **56 tok/s** single-user prose decode
+- [Inkling 2 Mini](https://github.com/outsmartchad/inkling-2-mini-single-dgx-spark-vllm) · vLLM · **42.7 tok/s** single-user prose decode
+
 ## Projects
 
 - 📱 **[321GoShoot](https://apps.apple.com/us/app/321goshoot/id6762259024)** — Beyblade battle, community & tournament app. Built end-to-end and shipped to the App Store and [Google Play](https://play.google.com/store/apps/details?id=app.goshoot.android). **30k+ users.** tournaments, battle sessions, leaderboards, clubs, community plaza, real-time chat, and a Maps shop-finder.
